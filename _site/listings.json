@@ -3,7 +3,8 @@
     "listing": "/blog.html",
     "items": [
       "/posts/post-with-code/index.html",
-      "/posts/welcome/index.html"
+      "/posts/welcome/index.html",
+      "/posts/my_first_post/my_first_post.html"
     ]
   }
 ]
